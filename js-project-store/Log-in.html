@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <link rel="stylesheet" href="src/style.css">
+    <script src='main.js'></script>
+</head>
+<body onload="get()">
+  <p style="background-image: url('images/view.jpg');">
+    <p id="savedText"> </p>
+    <p id="openedText"></p>
+    
+    <div class="navbar">
+      <a href="index.html">
+        <h2>Buttons Store</h2>
+      </a>
+      <bottun><a href="Log-in.html">Log in</a></bottun>
+      <a href="cart.html">
+        <div class="cart">
+          <i class="bi bi-cart2"></i>
+          <div id="cartAmount" class="cartAmount">0</div>
+        </div>
+      </a>
+  
+    </div>
+   <div class="logi">
+   <h3>Name:</h3>
+    <input type="text" id="input">
+    <h3>Phone number:</h3>
+    <input >
+    <h3>Adress:</h3>
+    <input>
+    <h3>Mail:</h3>
+    <input>
+    <button class="bo" onclick="save()"><a href="index.html">Log in</a></button>
+  </div>
+
+
+  <script>
+var storedItem=localStorage.getItem("storedItem");
+function save(){
+    var Item=dcument.getElemntById("input").value;
+    localStorage.setItm("storedItem",Item);
+    document.getElemntById("savedText").innerHTML+"SAVED";
+}
+function get(){
+localStorage.getItem("storedItem");
+    document.getElemntById("openedText").innerHTML+"opened";
+
+
+}
+
+
+  </script>
+    </body>
+</html> 
