@@ -1,0 +1,7 @@
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\IEnumerable\bin\Debug\IEnumerable.exe.config
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\IEnumerable\bin\Debug\IEnumerable.exe
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\IEnumerable\bin\Debug\IEnumerable.pdb
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\IEnumerable\obj\Debug\IEnumerableProject.csprojAssemblyReference.cache
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\IEnumerable\obj\Debug\IEnumerableProject.csproj.CoreCompileInputs.cache
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\IEnumerable\obj\Debug\IEnumerable.exe
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\IEnumerable\obj\Debug\IEnumerable.pdb
