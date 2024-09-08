@@ -1,0 +1,7 @@
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\PredicateDelegate\bin\Debug\PredicateDelegate.exe.config
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\PredicateDelegate\bin\Debug\PredicateDelegate.exe
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\PredicateDelegate\bin\Debug\PredicateDelegate.pdb
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\PredicateDelegate\obj\Debug\PredicateDelegate.csprojAssemblyReference.cache
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\PredicateDelegate\obj\Debug\PredicateDelegate.csproj.CoreCompileInputs.cache
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\PredicateDelegate\obj\Debug\PredicateDelegate.exe
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\PredicateDelegate\obj\Debug\PredicateDelegate.pdb

@@ -1,0 +1,7 @@
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\LambdaExpression\bin\Debug\LambdaExpression.exe.config
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\LambdaExpression\bin\Debug\LambdaExpression.exe
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\LambdaExpression\bin\Debug\LambdaExpression.pdb
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\LambdaExpression\obj\Debug\LambdaExpression.csprojAssemblyReference.cache
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\LambdaExpression\obj\Debug\LambdaExpression.csproj.CoreCompileInputs.cache
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\LambdaExpression\obj\Debug\LambdaExpression.exe
+O:\הנדסאות ומדעי המחשב\דבורי פייר\קודים\LambdaExpression\obj\Debug\LambdaExpression.pdb

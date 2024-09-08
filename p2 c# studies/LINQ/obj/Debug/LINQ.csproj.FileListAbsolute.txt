@@ -1,0 +1,7 @@
+O:\הנדסאות ומדעי המחשב\דבורי פייר\C#\קודים\LINQ\bin\Debug\LINQ.exe.config
+O:\הנדסאות ומדעי המחשב\דבורי פייר\C#\קודים\LINQ\bin\Debug\LINQ.exe
+O:\הנדסאות ומדעי המחשב\דבורי פייר\C#\קודים\LINQ\bin\Debug\LINQ.pdb
+O:\הנדסאות ומדעי המחשב\דבורי פייר\C#\קודים\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+O:\הנדסאות ומדעי המחשב\דבורי פייר\C#\קודים\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+O:\הנדסאות ומדעי המחשב\דבורי פייר\C#\קודים\LINQ\obj\Debug\LINQ.exe
+O:\הנדסאות ומדעי המחשב\דבורי פייר\C#\קודים\LINQ\obj\Debug\LINQ.pdb
